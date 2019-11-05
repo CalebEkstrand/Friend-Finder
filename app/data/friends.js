@@ -17,7 +17,7 @@ module.exports = [
     },
     {
         name:"Gurtrude",
-        photo:"https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        photo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRVCkWpm0gCkI8weQ6WUAutqwGF3USlFwGiStdfT9GTDpwlgUlQ&s",
         scores:[
             1,
             1,
@@ -33,7 +33,7 @@ module.exports = [
     },
     {
         name:"Gilbert",
-        photo:"https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        photo:"https://image.shutterstock.com/image-photo/portrait-addicted-looking-camera-frustration-260nw-1017180754.jpg",
         scores:[
             5,
             5,
